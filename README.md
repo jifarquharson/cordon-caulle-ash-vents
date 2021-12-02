@@ -34,3 +34,6 @@ This repository includes a ```data``` folder, containing ash plume and particle 
 ***
 ### Usage
 Python version >= 3.0 is required. The notebook calls numpy, matplotlib, datetime, pandas, scipy, and sklearn.
+***
+### Author
+Dr Jamie I. Farquharson [jifarq89@googlemail.com](mailto:jifarq89@googlemail.com); Independent, UK. 
