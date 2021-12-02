@@ -37,3 +37,7 @@ Python version >= 3.0 is required. The notebook calls numpy, matplotlib, datetim
 ***
 ### Author
 Dr Jamie I. Farquharson [jifarq89@googlemail.com](mailto:jifarq89@googlemail.com); Independent, UK. 
+***
+### License
+This project is licensed under the terms of the MIT license
+
