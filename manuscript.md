@@ -454,43 +454,43 @@ Fluids* **13**, 2938 (2001).<br>32. Caporaloni, M., Tampieri, F., Trombetti,
 F. & Vittori, O. Transfer of Particles in Nonisotropic Air Turbulence.
 *Journal of the Atmospheric Sciences* **32**, 565--568 (1975).<br>33. Reeks,
 M. W. The transport of discrete particles in inhomogeneous turbulence.
-*Journal of Aerosol Science* **14**, 729--739 (1983).34. Schlichting, H.
-& Gersten, K. *Boundary-Layer Theory*. (Springer, 2016).35. Lange, R. A.
+*Journal of Aerosol Science* **14**, 729--739 (1983).<br>34. Schlichting, H.
+& Gersten, K. *Boundary-Layer Theory*. (Springer, 2016).<br>35. Lange, R. A.
 A revised model for the density and thermal expansivity of K 2 O-Na 2
 O-CaO-MgO-Al 2 O 3 -SiO 2 liquids from 700 to 1900 K: extension to
 crustal magmatic temperatures. *Contributions to Mineralogy and
-Petrology* **130**, 1--11 (1997).36. Heiken, G. Atlas of Volcanic Ash.
-(1974).37. Walker, D. & Mullins, O. and Implications for Melt Structure.
-8.38. Castro, J. M. *et al.* Storage and eruption of near-liquidus
+Petrology* **130**, 1--11 (1997).<br>36. Heiken, G. Atlas of Volcanic Ash.
+(1974).<br>37. Walker, D. & Mullins, O. and Implications for Melt Structure.
+8.<br>38. Castro, J. M. *et al.* Storage and eruption of near-liquidus
 rhyolite magma at Cordón Caulle, Chile. *Bull Volcanol* **75**, 702
-(2013).39. Giordano, D., Russell, J. K. & Dingwell, D. B. Viscosity of
+(2013).<br>39. Giordano, D., Russell, J. K. & Dingwell, D. B. Viscosity of
 magmatic liquids: A model. *Earth and Planetary Science Letters*
-**271**, 123--134 (2008).40. Schiaffino, S. & Sonin, A. A. Molten
+**271**, 123--134 (2008).<br>40. Schiaffino, S. & Sonin, A. A. Molten
 droplet deposition and solidification at low Weber numbers. *Physics of
-Fluids* **9**, 3172--3187 (1997).41. Giehl, C., Brooker, R. A., Marxer,
+Fluids* **9**, 3172--3187 (1997).<br>41. Giehl, C., Brooker, R. A., Marxer,
 H. & Nowak, M. An experimental simulation of volcanic ash deposition in
 gas turbines and implications for jet engine safety. *Chemical Geology*
-**461**, 160--170 (2017).42. Sparks, R. S. J. *et al.* *Volcanic
-Plumes*. (Wiley, 1997).43. Gilbert, J. S., Lane, S. J., Sparks, R. S. J.
+**461**, 160--170 (2017).<br>42. Sparks, R. S. J. *et al.* *Volcanic
+Plumes*. (Wiley, 1997).<br>43. Gilbert, J. S., Lane, S. J., Sparks, R. S. J.
 & Koyaguchi, T. Charge measurements on particle fallout from a volcanic
-plume. *Nature* **349**, 598--600 (1991).44. Jones, T. J. & Russell, J.
+plume. *Nature* **349**, 598--600 (1991).<br>44. Jones, T. J. & Russell, J.
 K. Ash production by attrition in volcanic conduits and plumes. *Sci
-Rep* **7**, 5538 (2017).45. Zimanowski, B., Wohletz, K., Dellino, P. &
+Rep* **7**, 5538 (2017).<br>45. Zimanowski, B., Wohletz, K., Dellino, P. &
 Büttner, R. The volcanic ash problem. *Journal of Volcanology and
-Geothermal Research* **122**, 1--5 (2003).46. Kueppers, U., Scheu, B.,
+Geothermal Research* **122**, 1--5 (2003).<br>46. Kueppers, U., Scheu, B.,
 Spieler, O. & Dingwell, D. B. Fragmentation efficiency of explosive
 volcanic eruptions: A study of experimentally generated pyroclasts.
 *Journal of Volcanology and Geothermal Research* **153**, 125--135
-(2006).47. Perugini, D. & Kueppers, U. Fractal analysis of
+(2006).<br>47. Perugini, D. & Kueppers, U. Fractal analysis of
 experimentally generated pyroclasts: A tool for volcanic hazard
-assessment. *Acta Geophys.* **60**, 682--698 (2012).48. Eychenne, J.,
+assessment. *Acta Geophys.* **60**, 682--698 (2012).<br>48. Eychenne, J.,
 Cashman, K., Rust, A. & Durant, A. Impact of the lateral blast on the
 spatial pattern and grain size characteristics of the 18 May 1980 Mount
 St. Helens fallout deposit. *Journal of Geophysical Research: Solid
-Earth* **120**, 6018--6038 (2015).49. Dominguez, L. *et al.* Aeolian
+Earth* **120**, 6018--6038 (2015).<br>49. Dominguez, L. *et al.* Aeolian
 Remobilisation of the 2011-Cordón Caulle Tephra-Fallout Deposit: Example
 of an Important Process in the Life Cycle of Volcanic Ash. *Front. Earth
-Sci.* **7**, (2020).50. Cagnoli, B. & Manga, M. Granular mass flows and
+Sci.* **7**, (2020).<br>50. Cagnoli, B. & Manga, M. Granular mass flows and
 Coulomb's friction in shear cell experiments: Implications for
 geophysical flows. *Journal of Geophysical Research: Earth Surface*
 **109**, (2004).51. Mueller, S. B., Lane, S. J. & Kueppers, U. Lab-scale
