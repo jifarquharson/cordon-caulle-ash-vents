@@ -602,8 +602,8 @@ opportunity for particle entrainment and capture.
 **\
 **
 
-<img src="/figs/fig1.png" alt=""
-	title="" width="187mm" style="background-color:#1c87c9;"/>
+<p align="center"><img src="/figs/fig1.jpg" alt=""
+	title="" width="187 mm"/></p>
 
 **Figure 1 Syn- and post-eruption observations at Cordón Caulle. a**
 Plume height over time, from onset in July 2011 until May 2012 (see ref.
@@ -615,8 +615,9 @@ in 2014. **f** Detail of reddish veneer coating curviplanar ash-vent
 surface (see **e** for location). **g** As **f**, detailing ash veneer
 on hackly lava surface. Inset shows location of volcano.
 
-<img src="/figs/fig2.png" alt=""
-	title="" width="187mm"/>
+
+<p align="center"><img src="/figs/fig2.jpg" alt=""
+	title="" width="187 mm"/></p>
 
 **Figure 2 Particle sizes in sintered veneers on in-vent lava fractures
 that fed ash-venting during hybrid explosive-effusive eruptions. a--c**
@@ -634,8 +635,9 @@ $\left\langle x \right\rangle$ and 2$\sigma$ range. **Inset** shows the
 mass proportion (assuming spherical particles and homogeneous melt
 density) of particles greater than a given diameter.
 
-<img src="/figs/fig3.png" alt=""
-	title="" width="187mm"/>
+
+<p align="center"><img src="/figs/fig3.jpg" alt=""
+	title="" width="187 mm"/></p>
 
 **Figure 3 Droplet dynamic regimes. a** Stokes number regimes for a 0.01
 m wall-bounded flow as a function of velocity and particle radius. The
@@ -652,8 +654,9 @@ $\left\langle u \right\rangle\ \sim\ 10$ m s^-1^, We$\sim 1$.
 
 **\
 **
-<img src="/figs/fig4.png" alt=""
-	title="" width="187mm"/>
+
+<p align="center"><img src="/figs/fig4.jpg" alt=""
+	title="" width="187 mm"/></p>
 
 **Figure 4 A grain size fractionation model for Cordón Caulle volcano.
 a** Data in this study reflect a captured in-conduit fine ash fraction,
@@ -678,8 +681,8 @@ captured at the walls of ash vents; the emitted ash therefore
 predominantly reflects the coarser fraction of the original population.
 Diagram inspired by ref. 2.
 
-<p align="center"><img src="/figs/fig5.png" alt=""
-	title="" width="87mm"/></p>
+<p align="center"><img src="/figs/fig5.jpg" alt=""
+	title="" width="87 mm"/></p>
 
 **Figure 5 Extended field observations. a** Detail of veneered fracture
 surface distal from the main vent at Cordón Caulle. Arrows highlight
