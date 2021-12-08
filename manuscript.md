@@ -493,16 +493,16 @@ of an Important Process in the Life Cycle of Volcanic Ash. *Front. Earth
 Sci.* **7**, (2020).<br>50. Cagnoli, B. & Manga, M. Granular mass flows and
 Coulomb's friction in shear cell experiments: Implications for
 geophysical flows. *Journal of Geophysical Research: Earth Surface*
-**109**, (2004).51. Mueller, S. B., Lane, S. J. & Kueppers, U. Lab-scale
+**109**, (2004).<br>51. Mueller, S. B., Lane, S. J. & Kueppers, U. Lab-scale
 ash production by abrasion and collision experiments of porous volcanic
 samples. *Journal of Volcanology and Geothermal Research* **302**,
-163--172 (2015).52. Dufek, J., Manga, M. & Patel, A. Granular disruption
+163--172 (2015).<br>52. Dufek, J., Manga, M. & Patel, A. Granular disruption
 during explosive volcanic eruptions. *Nature Geosci* **5**, 561--564
-(2012).53. Fowler, A. C. & Scheu, B. A theoretical explanation of grain
+(2012).<br>53. Fowler, A. C. & Scheu, B. A theoretical explanation of grain
 size distributions in explosive rock fragmentation. *Proc. R. Soc. A.*
-**472**, 20150843 (2016).54. Stasiuk, M. V. *et al.* Degassing during
+**472**, 20150843 (2016).<br>54. Stasiuk, M. V. *et al.* Degassing during
 magma ascent in the Mule Creek vent (USA). *Bull Volcanol* **58**,
-117--130 (1996).55. Kolzenburg, S. *et al.* Strength and permeability
+117--130 (1996).<br>55. Kolzenburg, S. *et al.* Strength and permeability
 recovery of tuffisite-bearing andesite. *Solid Earth* **3**, 191--198
 (2012).
 
