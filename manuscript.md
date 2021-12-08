@@ -359,8 +359,7 @@ in the earliest stages . Considering post-fragmentation processes in
 terms of a hot, particle-laden (i.e. dusty) gas flow thus represents a
 frontier in silicic eruption modelling.
 
-**\
-**
+***
 
 **References**
 
@@ -505,8 +504,7 @@ magma ascent in the Mule Creek vent (USA). *Bull Volcanol* **58**,
 recovery of tuffisite-bearing andesite. *Solid Earth* **3**, 191--198
 (2012).
 
-**\
-**
+***
 
 **Methods**
 
@@ -599,8 +597,7 @@ $y_{v} \propto \left\langle u \right\rangle^{- 1}$, for which waning
 flow velocities would result in thicker boundary layers and more
 opportunity for particle entrainment and capture.
 
-**\
-**
+***
 
 <p align="center"><img src="/figs/fig1.jpg" alt=""
 	title="" width="187 mm"/></p>
@@ -635,6 +632,7 @@ $\left\langle x \right\rangle$ and 2$\sigma$ range. **Inset** shows the
 mass proportion (assuming spherical particles and homogeneous melt
 density) of particles greater than a given diameter.
 
+***
 
 <p align="center"><img src="/figs/fig3.jpg" alt=""
 	title="" width="187 mm"/></p>
@@ -652,8 +650,7 @@ are: I (inertial impact--driven); II (inertial capillary--driven); III
 $\left\langle u \right\rangle\ \sim\ 100$ m s^-1^, We$\gg 1$; at
 $\left\langle u \right\rangle\ \sim\ 10$ m s^-1^, We$\sim 1$.
 
-**\
-**
+***
 
 <p align="center"><img src="/figs/fig4.jpg" alt=""
 	title="" width="187 mm"/></p>
@@ -681,6 +678,8 @@ captured at the walls of ash vents; the emitted ash therefore
 predominantly reflects the coarser fraction of the original population.
 Diagram inspired by ref. 2.
 
+***
+
 <p align="center"><img src="/figs/fig5.jpg" alt=""
 	title="" width="87 mm"/></p>
 
@@ -692,6 +691,8 @@ a veneered fracture surface at Little Glass Mountain (Medicine Lake
 volcano, northern California). Reddish ash-coated surface is highlighted
 by the arrows. Inset shows ash-coated surface in context of exposed
 fracture plane. Photographs by H. Tuffen.
+
+***
 
 **Data availability**
 
