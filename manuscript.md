@@ -413,46 +413,46 @@ rhyolitic Cordón Caulle eruption, Chile. *Bull Volcanol* **77**, 13
 (2015).<br>17. Beckett, F. M. *et al.* Sensitivity of dispersion model
 forecasts of volcanic ash clouds to the physical characteristics of the
 particles. *Journal of Geophysical Research: Atmospheres* **120**,
-11,636-11,652 (2015).18. Horwell, C. J. & Baxter, P. J. The respiratory
+11,636-11,652 (2015).<br>18. Horwell, C. J. & Baxter, P. J. The respiratory
 health hazards of volcanic ash: a review for volcanic risk mitigation.
-*Bull Volcanol* **69**, 1--24 (2006).19. Lowe, D. J. Tephrochronology
+*Bull Volcanol* **69**, 1--24 (2006).<br>19. Lowe, D. J. Tephrochronology
 and its application: A review. *Quaternary Geochronology* **6**,
-107--153 (2011).20. Delmelle, P., Villiéras, F. & Pelletier, M. Surface
+107--153 (2011).<br>20. Delmelle, P., Villiéras, F. & Pelletier, M. Surface
 area, porosity and water adsorption properties of fine volcanic ash
-particles. *Bull Volcanol* **67**, 160--169 (2005).21. Alfano, F. *et
+particles. *Bull Volcanol* **67**, 160--169 (2005).<br>21. Alfano, F. *et
 al.* Reconstruction of total grain size distribution of the climactic
 phase of a long-lasting eruption: the example of the 2008--2013 Chaitén
-eruption. *Bull Volcanol* **78**, 46 (2016).22. Spanu, A., Michieli
+eruption. *Bull Volcanol* **78**, 46 (2016).<br>22. Spanu, A., Michieli
 Vitturi, M. de' & Barsotti, S. Reconstructing eruptive source parameters
 from tephra deposit: a numerical study of medium-sized explosive
-eruptions at Etna volcano. *Bull Volcanol* **78**, 59 (2016).23. Pioli,
+eruptions at Etna volcano. *Bull Volcanol* **78**, 59 (2016).<br>23. Pioli,
 L., Bonadonna, C. & Pistolesi, M. Reliability of Total Grain-Size
-Distribution of Tephra Deposits. *Sci Rep* **9**, 10006 (2019).24.
+Distribution of Tephra Deposits. *Sci Rep* **9**, 10006 (2019).<br>24.
 Mastin, L. G. *et al.* A multidisciplinary effort to assign realistic
 source parameters to models of volcanic ash-cloud transport and
 dispersion during eruptions. *Journal of Volcanology and Geothermal
-Research* **186**, 10--21 (2009).25. Silva Parejas, C., Lara, L. E.,
+Research* **186**, 10--21 (2009).<br>25. Silva Parejas, C., Lara, L. E.,
 Bertin, D., Amigo, A. & Orozco, G. The 2011-2012 eruption of Cordón
 Caulle volcano (Southern Andes): Evolution, crisis management and
-current hazards. 9382 (2012).26. Wadsworth, F. B. *et al.* Sintering of
+current hazards. 9382 (2012).<br>26. Wadsworth, F. B. *et al.* Sintering of
 viscous droplets under surface tension. *Proc. R. Soc. A.* **472**,
-20150780 (2016).27. Wadsworth, F. B. *et al.* A general model for
+20150780 (2016).<br>27. Wadsworth, F. B. *et al.* A general model for
 welding of ash particles in volcanic systems validated using in situ
 X-ray tomography. *Earth and Planetary Science Letters* **525**, 115726
-(2019).28. Costa, A., Pioli, L. & Bonadonna, C. Assessing tephra total
+(2019).<br>28. Costa, A., Pioli, L. & Bonadonna, C. Assessing tephra total
 grain-size distribution: Insights from field data analysis. *Earth and
-Planetary Science Letters* **443**, 90--107 (2016).29. Reckziegel, F.,
+Planetary Science Letters* **443**, 90--107 (2016).<br>29. Reckziegel, F.,
 Folch, A. & Viramonte, J. ATLAS-1.0: Atmospheric Lagrangian dispersion
 model for tephra transport and deposition. *Computers & Geosciences*
-**131**, 41--51 (2019).30. Burgisser, A., Bergantz, G. W. & Breidenthal,
+**131**, 41--51 (2019).<br>30. Burgisser, A., Bergantz, G. W. & Breidenthal,
 R. E. Addressing complexity in laboratory experiments: the scaling of
 dilute multiphase flows in magmatic systems. *Journal of Volcanology and
-Geothermal Research* **141**, 245--265 (2005).31. Hogan, R. C. & Cuzzi,
+Geothermal Research* **141**, 245--265 (2005).<br>31. Hogan, R. C. & Cuzzi,
 J. N. Stokes and Reynolds number dependence of preferential particle
 concentration in simulated three-dimensional turbulence. *Physics of
-Fluids* **13**, 2938 (2001).32. Caporaloni, M., Tampieri, F., Trombetti,
+Fluids* **13**, 2938 (2001).<br>32. Caporaloni, M., Tampieri, F., Trombetti,
 F. & Vittori, O. Transfer of Particles in Nonisotropic Air Turbulence.
-*Journal of the Atmospheric Sciences* **32**, 565--568 (1975).33. Reeks,
+*Journal of the Atmospheric Sciences* **32**, 565--568 (1975).<br>33. Reeks,
 M. W. The transport of discrete particles in inhomogeneous turbulence.
 *Journal of Aerosol Science* **14**, 729--739 (1983).34. Schlichting, H.
 & Gersten, K. *Boundary-Layer Theory*. (Springer, 2016).35. Lange, R. A.
