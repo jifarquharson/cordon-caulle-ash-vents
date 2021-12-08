@@ -31,6 +31,7 @@ This repository includes a ```data``` folder, containing ash plume and particle 
     +-- fig2.png
     +-- fig3.png
     +-- fig4.png
+    +-- fig5.png
 ```
 
 ***
