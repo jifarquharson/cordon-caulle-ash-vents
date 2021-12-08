@@ -365,19 +365,21 @@ frontier in silicic eruption modelling.
 
 1\. Cassidy, M., Manga, M., Cashman, K. & Bachmann, O. Controls on
 explosive-effusive volcanic eruption styles. *Nat Commun* **9**, 2839
-(2018).2. Wadsworth, F. B., Llewellin, E. W., Vasseur, J., Gardner, J.
+(2018).<br>
+2. Wadsworth, F. B., Llewellin, E. W., Vasseur, J., Gardner, J.
 E. & Tuffen, H. Explosive-effusive volcanic eruption transitions caused
-by sintering. *Sci. Adv.* **6**, eaba7940 (2020).3. Black, B. A., Manga,
+by sintering. *Sci. Adv.* **6**, eaba7940 (2020).<br>
+3. Black, B. A., Manga,
 M. & Andrews, B. Ash production and dispersal from sustained
-low-intensity Mono-Inyo eruptions. *Bull Volcanol* **78**, 57 (2016).4.
+low-intensity Mono-Inyo eruptions. *Bull Volcanol* **78**, 57 (2016).<br>4.
 Berlo, K. *et al.* Element variations in rhyolitic magma resulting from
 gas transport. *Geochimica et Cosmochimica Acta* **121**, 436--451
-(2013).5. Cabrera, A., Weinberg, R. F., Wright, H. M. N., Zlotnik, S. &
+(2013).<br>5. Cabrera, A., Weinberg, R. F., Wright, H. M. N., Zlotnik, S. &
 Cas, R. A. F. Melt fracturing and healing: A mechanism for degassing and
-origin of silicic obsidian. *Geology* **39**, 67--70 (2011).6. Tuffen,
+origin of silicic obsidian. *Geology* **39**, 67--70 (2011).<br>6. Tuffen,
 H., James, M. R., Castro, J. M. & Schipper, C. I. Exceptional mobility
 of an advancing rhyolitic obsidian flow at Cordón Caulle volcano in
-Chile. *Nature Communications* **4**, 2709 (2013).7. Farquharson, J. I.,
+Chile. *Nature Communications* **4**, 2709 (2013).<br>7. Farquharson, J. I.,
 James, M. R. & Tuffen, H. Examining rhyolite lava flow dynamics through
 photo-based 3D reconstructions of the 2011--2012 lava flowfield at
 Cordón-Caulle, Chile. *Journal of Volcanology and Geothermal Research*
@@ -612,6 +614,7 @@ in 2014. **f** Detail of reddish veneer coating curviplanar ash-vent
 surface (see **e** for location). **g** As **f**, detailing ash veneer
 on hackly lava surface. Inset shows location of volcano.
 
+***
 
 <p align="center"><img src="/figs/fig2.jpg" alt=""
 	title="" width="187 mm"/></p>
