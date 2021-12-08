@@ -383,34 +383,34 @@ Chile. *Nature Communications* **4**, 2709 (2013).<br>7. Farquharson, J. I.,
 James, M. R. & Tuffen, H. Examining rhyolite lava flow dynamics through
 photo-based 3D reconstructions of the 2011--2012 lava flowfield at
 Cordón-Caulle, Chile. *Journal of Volcanology and Geothermal Research*
-**304**, 336--348 (2015).8. Castro, J. M. & Dingwell, D. B. Rapid ascent
+**304**, 336--348 (2015).<br>8. Castro, J. M. & Dingwell, D. B. Rapid ascent
 of rhyolitic magma at Chaitén volcano, Chile. *Nature* **461**, 780--783
-(2009).9. Schipper, C. I., Castro, J. M., Tuffen, H., James, M. R. &
+(2009).<br>9. Schipper, C. I., Castro, J. M., Tuffen, H., James, M. R. &
 How, P. Shallow vent architecture during hybrid explosive--effusive
 activity at Cordón Caulle (Chile, 2011--12): Evidence from direct
 observations and pyroclast textures. *Journal of Volcanology and
-Geothermal Research* **262**, 25--37 (2013).10. Schipper, C. I. *et al.*
+Geothermal Research* **262**, 25--37 (2013).<br>10. Schipper, C. I. *et al.*
 Silicic conduits as supersized tuffisites: Clastogenic influences on
 shifting eruption styles at Cordón Caulle volcano (Chile). *Bull
-Volcanol* **83**, 11 (2021).11. Gardner, J. E., Llewellin, E. W.,
+Volcanol* **83**, 11 (2021).<br>11. Gardner, J. E., Llewellin, E. W.,
 Watkins, J. M. & Befus, K. S. Formation of obsidian pyroclasts by
 sintering of ash particles in the volcanic conduit. *Earth and Planetary
-Science Letters* **459**, 262--263 (2017).12. Watkins, J. M., Gardner,
+Science Letters* **459**, 262--263 (2017).<br>12. Watkins, J. M., Gardner,
 J. E. & Befus, K. S. Nonequilibrium degassing, regassing, and vapor
 fluxing in magmatic feeder systems. *Geology* **45**, 183--187
-(2017).13. Giachetti, T. *et al.* The products of primary magma
+(2017).<br>13. Giachetti, T. *et al.* The products of primary magma
 fragmentation finally revealed by pumice agglomerates. *Geology* (2021)
-doi:10.1130/G48902.1.14. Castro, J. M. *et al.* The role of
+doi:10.1130/G48902.1.<br>14. Castro, J. M. *et al.* The role of
 melt-fracture degassing in defusing explosive rhyolite eruptions at
 volcán Chaitén. *Earth and Planetary Science Letters* **333--334**,
-63--69 (2012).15. Castro, J. M., Bindeman, I. N., Tuffen, H. & Ian
+63--69 (2012).<br>15. Castro, J. M., Bindeman, I. N., Tuffen, H. & Ian
 Schipper, C. Explosive origin of silicic lava: Textural and δD--H2O
 evidence for pyroclastic degassing during rhyolite effusion. *Earth and
-Planetary Science Letters* **405**, 52--61 (2014).16. Bonadonna, C.,
+Planetary Science Letters* **405**, 52--61 (2014).<br>16. Bonadonna, C.,
 Cioni, R., Pistolesi, M., Elissondo, M. & Baumann, V. Sedimentation of
 long-lasting wind-affected volcanic plumes: the example of the 2011
 rhyolitic Cordón Caulle eruption, Chile. *Bull Volcanol* **77**, 13
-(2015).17. Beckett, F. M. *et al.* Sensitivity of dispersion model
+(2015).<br>17. Beckett, F. M. *et al.* Sensitivity of dispersion model
 forecasts of volcanic ash clouds to the physical characteristics of the
 particles. *Journal of Geophysical Research: Atmospheres* **120**,
 11,636-11,652 (2015).18. Horwell, C. J. & Baxter, P. J. The respiratory
