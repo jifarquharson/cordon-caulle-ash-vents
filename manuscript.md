@@ -678,8 +678,8 @@ captured at the walls of ash vents; the emitted ash therefore
 predominantly reflects the coarser fraction of the original population.
 Diagram inspired by ref. 2.
 
-<img src="/figs/fig5.png" alt=""
-	title="" width="87mm"/>
+<p align="center"><img src="/figs/fig5.png" alt=""
+	title="" width="87mm"/></p>
 
 **Figure 5 Extended field observations. a** Detail of veneered fracture
 surface distal from the main vent at Cordón Caulle. Arrows highlight
