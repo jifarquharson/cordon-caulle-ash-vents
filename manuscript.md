@@ -141,7 +141,7 @@ The first question is whether or not particles in turbulent flow (see
 **Methods**) will contact the wall, or be transported through the
 fracture without interacting with the wall. The characteristic timescale
 of motion of a particle of diameter $d$ in a flow is
-$\lambda_{p} = \rho d^{2}/(18\mu_{f})$, where $\rho$ is the particle
+![equation](http://www.sciweavers.org/tex2img.php?eq=%24%5Clambda_%7Bp%7D%20%3D%20%5Crho%20d%5E%7B2%7D%2F%2818%5Cmu_%7Bf%7D%29%24&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0), where $\rho$ is the particle
 density and $\mu_{f}$ the dynamic viscosity of the carrier phase. The
 response of the particle to flow turbulence is described by the Stokes
 number St, which is the ratio of $\lambda_{p}$ to a characteristic fluid
@@ -359,154 +359,154 @@ in the earliest stages . Considering post-fragmentation processes in
 terms of a hot, particle-laden (i.e. dusty) gas flow thus represents a
 frontier in silicic eruption modelling.
 
-**\
-**
+***
 
 **References**
 
 1\. Cassidy, M., Manga, M., Cashman, K. & Bachmann, O. Controls on
 explosive-effusive volcanic eruption styles. *Nat Commun* **9**, 2839
-(2018).2. Wadsworth, F. B., Llewellin, E. W., Vasseur, J., Gardner, J.
+(2018).<br>
+2. Wadsworth, F. B., Llewellin, E. W., Vasseur, J., Gardner, J.
 E. & Tuffen, H. Explosive-effusive volcanic eruption transitions caused
-by sintering. *Sci. Adv.* **6**, eaba7940 (2020).3. Black, B. A., Manga,
+by sintering. *Sci. Adv.* **6**, eaba7940 (2020).<br>
+3. Black, B. A., Manga,
 M. & Andrews, B. Ash production and dispersal from sustained
-low-intensity Mono-Inyo eruptions. *Bull Volcanol* **78**, 57 (2016).4.
+low-intensity Mono-Inyo eruptions. *Bull Volcanol* **78**, 57 (2016).<br>4.
 Berlo, K. *et al.* Element variations in rhyolitic magma resulting from
 gas transport. *Geochimica et Cosmochimica Acta* **121**, 436--451
-(2013).5. Cabrera, A., Weinberg, R. F., Wright, H. M. N., Zlotnik, S. &
+(2013).<br>5. Cabrera, A., Weinberg, R. F., Wright, H. M. N., Zlotnik, S. &
 Cas, R. A. F. Melt fracturing and healing: A mechanism for degassing and
-origin of silicic obsidian. *Geology* **39**, 67--70 (2011).6. Tuffen,
+origin of silicic obsidian. *Geology* **39**, 67--70 (2011).<br>6. Tuffen,
 H., James, M. R., Castro, J. M. & Schipper, C. I. Exceptional mobility
 of an advancing rhyolitic obsidian flow at Cordón Caulle volcano in
-Chile. *Nature Communications* **4**, 2709 (2013).7. Farquharson, J. I.,
+Chile. *Nature Communications* **4**, 2709 (2013).<br>7. Farquharson, J. I.,
 James, M. R. & Tuffen, H. Examining rhyolite lava flow dynamics through
 photo-based 3D reconstructions of the 2011--2012 lava flowfield at
 Cordón-Caulle, Chile. *Journal of Volcanology and Geothermal Research*
-**304**, 336--348 (2015).8. Castro, J. M. & Dingwell, D. B. Rapid ascent
+**304**, 336--348 (2015).<br>8. Castro, J. M. & Dingwell, D. B. Rapid ascent
 of rhyolitic magma at Chaitén volcano, Chile. *Nature* **461**, 780--783
-(2009).9. Schipper, C. I., Castro, J. M., Tuffen, H., James, M. R. &
+(2009).<br>9. Schipper, C. I., Castro, J. M., Tuffen, H., James, M. R. &
 How, P. Shallow vent architecture during hybrid explosive--effusive
 activity at Cordón Caulle (Chile, 2011--12): Evidence from direct
 observations and pyroclast textures. *Journal of Volcanology and
-Geothermal Research* **262**, 25--37 (2013).10. Schipper, C. I. *et al.*
+Geothermal Research* **262**, 25--37 (2013).<br>10. Schipper, C. I. *et al.*
 Silicic conduits as supersized tuffisites: Clastogenic influences on
 shifting eruption styles at Cordón Caulle volcano (Chile). *Bull
-Volcanol* **83**, 11 (2021).11. Gardner, J. E., Llewellin, E. W.,
+Volcanol* **83**, 11 (2021).<br>11. Gardner, J. E., Llewellin, E. W.,
 Watkins, J. M. & Befus, K. S. Formation of obsidian pyroclasts by
 sintering of ash particles in the volcanic conduit. *Earth and Planetary
-Science Letters* **459**, 262--263 (2017).12. Watkins, J. M., Gardner,
+Science Letters* **459**, 262--263 (2017).<br>12. Watkins, J. M., Gardner,
 J. E. & Befus, K. S. Nonequilibrium degassing, regassing, and vapor
 fluxing in magmatic feeder systems. *Geology* **45**, 183--187
-(2017).13. Giachetti, T. *et al.* The products of primary magma
+(2017).<br>13. Giachetti, T. *et al.* The products of primary magma
 fragmentation finally revealed by pumice agglomerates. *Geology* (2021)
-doi:10.1130/G48902.1.14. Castro, J. M. *et al.* The role of
+doi:10.1130/G48902.1.<br>14. Castro, J. M. *et al.* The role of
 melt-fracture degassing in defusing explosive rhyolite eruptions at
 volcán Chaitén. *Earth and Planetary Science Letters* **333--334**,
-63--69 (2012).15. Castro, J. M., Bindeman, I. N., Tuffen, H. & Ian
+63--69 (2012).<br>15. Castro, J. M., Bindeman, I. N., Tuffen, H. & Ian
 Schipper, C. Explosive origin of silicic lava: Textural and δD--H2O
 evidence for pyroclastic degassing during rhyolite effusion. *Earth and
-Planetary Science Letters* **405**, 52--61 (2014).16. Bonadonna, C.,
+Planetary Science Letters* **405**, 52--61 (2014).<br>16. Bonadonna, C.,
 Cioni, R., Pistolesi, M., Elissondo, M. & Baumann, V. Sedimentation of
 long-lasting wind-affected volcanic plumes: the example of the 2011
 rhyolitic Cordón Caulle eruption, Chile. *Bull Volcanol* **77**, 13
-(2015).17. Beckett, F. M. *et al.* Sensitivity of dispersion model
+(2015).<br>17. Beckett, F. M. *et al.* Sensitivity of dispersion model
 forecasts of volcanic ash clouds to the physical characteristics of the
 particles. *Journal of Geophysical Research: Atmospheres* **120**,
-11,636-11,652 (2015).18. Horwell, C. J. & Baxter, P. J. The respiratory
+11,636-11,652 (2015).<br>18. Horwell, C. J. & Baxter, P. J. The respiratory
 health hazards of volcanic ash: a review for volcanic risk mitigation.
-*Bull Volcanol* **69**, 1--24 (2006).19. Lowe, D. J. Tephrochronology
+*Bull Volcanol* **69**, 1--24 (2006).<br>19. Lowe, D. J. Tephrochronology
 and its application: A review. *Quaternary Geochronology* **6**,
-107--153 (2011).20. Delmelle, P., Villiéras, F. & Pelletier, M. Surface
+107--153 (2011).<br>20. Delmelle, P., Villiéras, F. & Pelletier, M. Surface
 area, porosity and water adsorption properties of fine volcanic ash
-particles. *Bull Volcanol* **67**, 160--169 (2005).21. Alfano, F. *et
+particles. *Bull Volcanol* **67**, 160--169 (2005).<br>21. Alfano, F. *et
 al.* Reconstruction of total grain size distribution of the climactic
 phase of a long-lasting eruption: the example of the 2008--2013 Chaitén
-eruption. *Bull Volcanol* **78**, 46 (2016).22. Spanu, A., Michieli
+eruption. *Bull Volcanol* **78**, 46 (2016).<br>22. Spanu, A., Michieli
 Vitturi, M. de' & Barsotti, S. Reconstructing eruptive source parameters
 from tephra deposit: a numerical study of medium-sized explosive
-eruptions at Etna volcano. *Bull Volcanol* **78**, 59 (2016).23. Pioli,
+eruptions at Etna volcano. *Bull Volcanol* **78**, 59 (2016).<br>23. Pioli,
 L., Bonadonna, C. & Pistolesi, M. Reliability of Total Grain-Size
-Distribution of Tephra Deposits. *Sci Rep* **9**, 10006 (2019).24.
+Distribution of Tephra Deposits. *Sci Rep* **9**, 10006 (2019).<br>24.
 Mastin, L. G. *et al.* A multidisciplinary effort to assign realistic
 source parameters to models of volcanic ash-cloud transport and
 dispersion during eruptions. *Journal of Volcanology and Geothermal
-Research* **186**, 10--21 (2009).25. Silva Parejas, C., Lara, L. E.,
+Research* **186**, 10--21 (2009).<br>25. Silva Parejas, C., Lara, L. E.,
 Bertin, D., Amigo, A. & Orozco, G. The 2011-2012 eruption of Cordón
 Caulle volcano (Southern Andes): Evolution, crisis management and
-current hazards. 9382 (2012).26. Wadsworth, F. B. *et al.* Sintering of
+current hazards. 9382 (2012).<br>26. Wadsworth, F. B. *et al.* Sintering of
 viscous droplets under surface tension. *Proc. R. Soc. A.* **472**,
-20150780 (2016).27. Wadsworth, F. B. *et al.* A general model for
+20150780 (2016).<br>27. Wadsworth, F. B. *et al.* A general model for
 welding of ash particles in volcanic systems validated using in situ
 X-ray tomography. *Earth and Planetary Science Letters* **525**, 115726
-(2019).28. Costa, A., Pioli, L. & Bonadonna, C. Assessing tephra total
+(2019).<br>28. Costa, A., Pioli, L. & Bonadonna, C. Assessing tephra total
 grain-size distribution: Insights from field data analysis. *Earth and
-Planetary Science Letters* **443**, 90--107 (2016).29. Reckziegel, F.,
+Planetary Science Letters* **443**, 90--107 (2016).<br>29. Reckziegel, F.,
 Folch, A. & Viramonte, J. ATLAS-1.0: Atmospheric Lagrangian dispersion
 model for tephra transport and deposition. *Computers & Geosciences*
-**131**, 41--51 (2019).30. Burgisser, A., Bergantz, G. W. & Breidenthal,
+**131**, 41--51 (2019).<br>30. Burgisser, A., Bergantz, G. W. & Breidenthal,
 R. E. Addressing complexity in laboratory experiments: the scaling of
 dilute multiphase flows in magmatic systems. *Journal of Volcanology and
-Geothermal Research* **141**, 245--265 (2005).31. Hogan, R. C. & Cuzzi,
+Geothermal Research* **141**, 245--265 (2005).<br>31. Hogan, R. C. & Cuzzi,
 J. N. Stokes and Reynolds number dependence of preferential particle
 concentration in simulated three-dimensional turbulence. *Physics of
-Fluids* **13**, 2938 (2001).32. Caporaloni, M., Tampieri, F., Trombetti,
+Fluids* **13**, 2938 (2001).<br>32. Caporaloni, M., Tampieri, F., Trombetti,
 F. & Vittori, O. Transfer of Particles in Nonisotropic Air Turbulence.
-*Journal of the Atmospheric Sciences* **32**, 565--568 (1975).33. Reeks,
+*Journal of the Atmospheric Sciences* **32**, 565--568 (1975).<br>33. Reeks,
 M. W. The transport of discrete particles in inhomogeneous turbulence.
-*Journal of Aerosol Science* **14**, 729--739 (1983).34. Schlichting, H.
-& Gersten, K. *Boundary-Layer Theory*. (Springer, 2016).35. Lange, R. A.
+*Journal of Aerosol Science* **14**, 729--739 (1983).<br>34. Schlichting, H.
+& Gersten, K. *Boundary-Layer Theory*. (Springer, 2016).<br>35. Lange, R. A.
 A revised model for the density and thermal expansivity of K 2 O-Na 2
 O-CaO-MgO-Al 2 O 3 -SiO 2 liquids from 700 to 1900 K: extension to
 crustal magmatic temperatures. *Contributions to Mineralogy and
-Petrology* **130**, 1--11 (1997).36. Heiken, G. Atlas of Volcanic Ash.
-(1974).37. Walker, D. & Mullins, O. and Implications for Melt Structure.
-8.38. Castro, J. M. *et al.* Storage and eruption of near-liquidus
+Petrology* **130**, 1--11 (1997).<br>36. Heiken, G. Atlas of Volcanic Ash.
+(1974).<br>37. Walker, D. & Mullins, O. and Implications for Melt Structure.
+8.<br>38. Castro, J. M. *et al.* Storage and eruption of near-liquidus
 rhyolite magma at Cordón Caulle, Chile. *Bull Volcanol* **75**, 702
-(2013).39. Giordano, D., Russell, J. K. & Dingwell, D. B. Viscosity of
+(2013).<br>39. Giordano, D., Russell, J. K. & Dingwell, D. B. Viscosity of
 magmatic liquids: A model. *Earth and Planetary Science Letters*
-**271**, 123--134 (2008).40. Schiaffino, S. & Sonin, A. A. Molten
+**271**, 123--134 (2008).<br>40. Schiaffino, S. & Sonin, A. A. Molten
 droplet deposition and solidification at low Weber numbers. *Physics of
-Fluids* **9**, 3172--3187 (1997).41. Giehl, C., Brooker, R. A., Marxer,
+Fluids* **9**, 3172--3187 (1997).<br>41. Giehl, C., Brooker, R. A., Marxer,
 H. & Nowak, M. An experimental simulation of volcanic ash deposition in
 gas turbines and implications for jet engine safety. *Chemical Geology*
-**461**, 160--170 (2017).42. Sparks, R. S. J. *et al.* *Volcanic
-Plumes*. (Wiley, 1997).43. Gilbert, J. S., Lane, S. J., Sparks, R. S. J.
+**461**, 160--170 (2017).<br>42. Sparks, R. S. J. *et al.* *Volcanic
+Plumes*. (Wiley, 1997).<br>43. Gilbert, J. S., Lane, S. J., Sparks, R. S. J.
 & Koyaguchi, T. Charge measurements on particle fallout from a volcanic
-plume. *Nature* **349**, 598--600 (1991).44. Jones, T. J. & Russell, J.
+plume. *Nature* **349**, 598--600 (1991).<br>44. Jones, T. J. & Russell, J.
 K. Ash production by attrition in volcanic conduits and plumes. *Sci
-Rep* **7**, 5538 (2017).45. Zimanowski, B., Wohletz, K., Dellino, P. &
+Rep* **7**, 5538 (2017).<br>45. Zimanowski, B., Wohletz, K., Dellino, P. &
 Büttner, R. The volcanic ash problem. *Journal of Volcanology and
-Geothermal Research* **122**, 1--5 (2003).46. Kueppers, U., Scheu, B.,
+Geothermal Research* **122**, 1--5 (2003).<br>46. Kueppers, U., Scheu, B.,
 Spieler, O. & Dingwell, D. B. Fragmentation efficiency of explosive
 volcanic eruptions: A study of experimentally generated pyroclasts.
 *Journal of Volcanology and Geothermal Research* **153**, 125--135
-(2006).47. Perugini, D. & Kueppers, U. Fractal analysis of
+(2006).<br>47. Perugini, D. & Kueppers, U. Fractal analysis of
 experimentally generated pyroclasts: A tool for volcanic hazard
-assessment. *Acta Geophys.* **60**, 682--698 (2012).48. Eychenne, J.,
+assessment. *Acta Geophys.* **60**, 682--698 (2012).<br>48. Eychenne, J.,
 Cashman, K., Rust, A. & Durant, A. Impact of the lateral blast on the
 spatial pattern and grain size characteristics of the 18 May 1980 Mount
 St. Helens fallout deposit. *Journal of Geophysical Research: Solid
-Earth* **120**, 6018--6038 (2015).49. Dominguez, L. *et al.* Aeolian
+Earth* **120**, 6018--6038 (2015).<br>49. Dominguez, L. *et al.* Aeolian
 Remobilisation of the 2011-Cordón Caulle Tephra-Fallout Deposit: Example
 of an Important Process in the Life Cycle of Volcanic Ash. *Front. Earth
-Sci.* **7**, (2020).50. Cagnoli, B. & Manga, M. Granular mass flows and
+Sci.* **7**, (2020).<br>50. Cagnoli, B. & Manga, M. Granular mass flows and
 Coulomb's friction in shear cell experiments: Implications for
 geophysical flows. *Journal of Geophysical Research: Earth Surface*
-**109**, (2004).51. Mueller, S. B., Lane, S. J. & Kueppers, U. Lab-scale
+**109**, (2004).<br>51. Mueller, S. B., Lane, S. J. & Kueppers, U. Lab-scale
 ash production by abrasion and collision experiments of porous volcanic
 samples. *Journal of Volcanology and Geothermal Research* **302**,
-163--172 (2015).52. Dufek, J., Manga, M. & Patel, A. Granular disruption
+163--172 (2015).<br>52. Dufek, J., Manga, M. & Patel, A. Granular disruption
 during explosive volcanic eruptions. *Nature Geosci* **5**, 561--564
-(2012).53. Fowler, A. C. & Scheu, B. A theoretical explanation of grain
+(2012).<br>53. Fowler, A. C. & Scheu, B. A theoretical explanation of grain
 size distributions in explosive rock fragmentation. *Proc. R. Soc. A.*
-**472**, 20150843 (2016).54. Stasiuk, M. V. *et al.* Degassing during
+**472**, 20150843 (2016).<br>54. Stasiuk, M. V. *et al.* Degassing during
 magma ascent in the Mule Creek vent (USA). *Bull Volcanol* **58**,
-117--130 (1996).55. Kolzenburg, S. *et al.* Strength and permeability
+117--130 (1996).<br>55. Kolzenburg, S. *et al.* Strength and permeability
 recovery of tuffisite-bearing andesite. *Solid Earth* **3**, 191--198
 (2012).
 
-**\
-**
+***
 
 **Methods**
 
@@ -599,11 +599,10 @@ $y_{v} \propto \left\langle u \right\rangle^{- 1}$, for which waning
 flow velocities would result in thicker boundary layers and more
 opportunity for particle entrainment and capture.
 
-**\
-**
+***
 
-<img src="/figs/fig1.png" alt=""
-	title="" width="187mm" style="background-color:#1c87c9;"/>
+<p align="center"><img src="/figs/fig1.jpg" alt=""
+	title="" width="187 mm"/></p>
 
 **Figure 1 Syn- and post-eruption observations at Cordón Caulle. a**
 Plume height over time, from onset in July 2011 until May 2012 (see ref.
@@ -615,8 +614,10 @@ in 2014. **f** Detail of reddish veneer coating curviplanar ash-vent
 surface (see **e** for location). **g** As **f**, detailing ash veneer
 on hackly lava surface. Inset shows location of volcano.
 
-<img src="/figs/fig2.png" alt=""
-	title="" width="187mm"/>
+***
+
+<p align="center"><img src="/figs/fig2.jpg" alt=""
+	title="" width="187 mm"/></p>
 
 **Figure 2 Particle sizes in sintered veneers on in-vent lava fractures
 that fed ash-venting during hybrid explosive-effusive eruptions. a--c**
@@ -634,8 +635,10 @@ $\left\langle x \right\rangle$ and 2$\sigma$ range. **Inset** shows the
 mass proportion (assuming spherical particles and homogeneous melt
 density) of particles greater than a given diameter.
 
-<img src="/figs/fig3.png" alt=""
-	title="" width="187mm"/>
+***
+
+<p align="center"><img src="/figs/fig3.jpg" alt=""
+	title="" width="187 mm"/></p>
 
 **Figure 3 Droplet dynamic regimes. a** Stokes number regimes for a 0.01
 m wall-bounded flow as a function of velocity and particle radius. The
@@ -650,10 +653,10 @@ are: I (inertial impact--driven); II (inertial capillary--driven); III
 $\left\langle u \right\rangle\ \sim\ 100$ m s^-1^, We$\gg 1$; at
 $\left\langle u \right\rangle\ \sim\ 10$ m s^-1^, We$\sim 1$.
 
-**\
-**
-<img src="/figs/fig4.png" alt=""
-	title="" width="187mm"/>
+***
+
+<p align="center"><img src="/figs/fig4.jpg" alt=""
+	title="" width="187 mm"/></p>
 
 **Figure 4 A grain size fractionation model for Cordón Caulle volcano.
 a** Data in this study reflect a captured in-conduit fine ash fraction,
@@ -678,8 +681,10 @@ captured at the walls of ash vents; the emitted ash therefore
 predominantly reflects the coarser fraction of the original population.
 Diagram inspired by ref. 2.
 
-<p align="center"><img src="/figs/fig5.png" alt=""
-	title="" width="87mm"/></p>
+***
+
+<p align="center"><img src="/figs/fig5.jpg" alt=""
+	title="" width="87 mm"/></p>
 
 **Figure 5 Extended field observations. a** Detail of veneered fracture
 surface distal from the main vent at Cordón Caulle. Arrows highlight
@@ -689,6 +694,8 @@ a veneered fracture surface at Little Glass Mountain (Medicine Lake
 volcano, northern California). Reddish ash-coated surface is highlighted
 by the arrows. Inset shows ash-coated surface in context of exposed
 fracture plane. Photographs by H. Tuffen.
+
+***
 
 **Data availability**
 
