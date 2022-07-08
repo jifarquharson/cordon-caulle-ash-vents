@@ -1,7 +1,7 @@
 # cordon-caulle-ash-vents
 Resources and analysis accompanying the manuscript, "*In-conduit capture of sub-micron volcanic ash particles via turbophoresis and sintering.*"
 
-### Jamie I. Farquharson[*](#linkhandle), Hugh Tuffen, Fabian B. Wadsworth, Jonathan M. Castro, C. Ian Schipper 
+### Jamie I. Farquharson[*](#linkhandle), Hugh Tuffen, Fabian B. Wadsworth, Jonathan M. Castro, Holly Unwin, C. Ian Schipper 
 ***
 <a id="linkhandle"></a>* [ifarq89@googlemail.com](mailto:jifarq89@googlemail.com)
 
