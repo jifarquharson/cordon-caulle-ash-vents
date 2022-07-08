@@ -140,7 +140,7 @@ order to gain insight in to the timescales and mechanisms involved.
 The first question is whether or not particles in turbulent flow (see
 **Methods**) will contact the wall, or be transported through the
 fracture without interacting with the wall. The characteristic timescale
-of motion of a particle of diameter $d$ in a flow is
+of motion of a particle of diameter $d$ in a flow is $\lambda_p = \rho d^2/(18 \mu_f)$
 ![equation](http://www.sciweavers.org/tex2img.php?eq=%24%5Clambda_%7Bp%7D%20%3D%20%5Crho%20d%5E%7B2%7D%2F%2818%5Cmu_%7Bf%7D%29%24&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0), where $\rho$ is the particle
 density and $\mu_{f}$ the dynamic viscosity of the carrier phase. The
 response of the particle to flow turbulence is described by the Stokes
